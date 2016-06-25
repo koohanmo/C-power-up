@@ -13,13 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Part1">
+      <UniqueIdentifier>{39a79e6f-8e18-44eb-a6f4-298b5d1b14af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part2">
+      <UniqueIdentifier>{9b4861b2-18c3-4cf5-9761-62f9c1367789}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="part1_4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="part1_4_2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="part1_4.c">
+      <Filter>소스 파일\Part1</Filter>
+    </ClCompile>
+    <ClCompile Include="part2_5_1.c">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="part2_5_2.c">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="part_2_6.c">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="part2_7.cpp">
+      <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="part2_8.c">
+      <Filter>소스 파일\Part2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
