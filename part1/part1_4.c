@@ -7,7 +7,7 @@ EOF가 입력 될 때 까지 문자를 입력 받는 예제
 
 int main(void) {
 
-
+		
 	int count = 0;
 	char temp;
 
