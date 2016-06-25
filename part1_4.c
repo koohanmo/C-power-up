@@ -1,3 +1,8 @@
+/*
+C Programming powerUp -Page 22
+EOF가 입력 될 때 까지 문자를 입력 받는 예제
+2016-06-26
+*/
 #include<stdio.h>
 
 int main(void) {
