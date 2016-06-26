@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Part5">
       <UniqueIdentifier>{37f5b9ec-31da-427a-b60d-380700af1067}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Part6">
+      <UniqueIdentifier>{6374d9e1-add7-4de3-97cf-7452d12ec2e0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="part1_4_2.c">
@@ -77,6 +80,21 @@
     </ClCompile>
     <ClCompile Include="part5_3.c">
       <Filter>소스 파일\Part5</Filter>
+    </ClCompile>
+    <ClCompile Include="part6_19.c">
+      <Filter>소스 파일\Part6</Filter>
+    </ClCompile>
+    <ClCompile Include="part6_20.c">
+      <Filter>소스 파일\Part6</Filter>
+    </ClCompile>
+    <ClCompile Include="part6_21.c">
+      <Filter>소스 파일\Part6</Filter>
+    </ClCompile>
+    <ClCompile Include="part6_22.c">
+      <Filter>소스 파일\Part6</Filter>
+    </ClCompile>
+    <ClCompile Include="part6_23.c">
+      <Filter>소스 파일\Part6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
