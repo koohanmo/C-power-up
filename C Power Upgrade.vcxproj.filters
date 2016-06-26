@@ -19,6 +19,15 @@
     <Filter Include="소스 파일\Part2">
       <UniqueIdentifier>{9b4861b2-18c3-4cf5-9761-62f9c1367789}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Part3">
+      <UniqueIdentifier>{4181d485-e454-4402-a1f6-38d00aa410a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part4">
+      <UniqueIdentifier>{4a227660-b3af-4849-9204-d84d10492ef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Part5">
+      <UniqueIdentifier>{37f5b9ec-31da-427a-b60d-380700af1067}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="part1_4_2.c">
@@ -41,6 +50,33 @@
     </ClCompile>
     <ClCompile Include="part2_8.c">
       <Filter>소스 파일\Part2</Filter>
+    </ClCompile>
+    <ClCompile Include="part3_9.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="part3_10.c">
+      <Filter>소스 파일\Part3</Filter>
+    </ClCompile>
+    <ClCompile Include="part5_12.c">
+      <Filter>소스 파일\Part4</Filter>
+    </ClCompile>
+    <ClCompile Include="part5_12_2.c">
+      <Filter>소스 파일\Part4</Filter>
+    </ClCompile>
+    <ClCompile Include="part4_13.c">
+      <Filter>소스 파일\Part4</Filter>
+    </ClCompile>
+    <ClCompile Include="part4_14.c">
+      <Filter>소스 파일\Part4</Filter>
+    </ClCompile>
+    <ClCompile Include="part5_1.c">
+      <Filter>소스 파일\Part5</Filter>
+    </ClCompile>
+    <ClCompile Include="part5_2.c">
+      <Filter>소스 파일\Part5</Filter>
+    </ClCompile>
+    <ClCompile Include="part5_3.c">
+      <Filter>소스 파일\Part5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
